@@ -1,0 +1,70 @@
+Blockchain Essentials
+Assignment DAY 1:
+
+
+Q1. What is our understanding of the Block Chain?
+
+Answer:
+A mix of technology i.e. Distributed Database and Cryptography where
+information is verifiable, unchangeable, tamper-proof and immutable.
+Making a copy of same document at different places is known as
+Distributed Data Base.
+Converting the whole data in digital Signature is known as Cryptography.
+Block Chain is all about huge amount of data storing in different places.
+
+
+Q2. What is the core problem block chain trying to solve?
+
+Answer:
+It is trying to solve authenticity problems, security and need of powerful
+third party for trust.
+
+
+Q3. What are few features that Block Chain gives you?
+
+Answer:
+Features are :
+1. Verifiable:
+   The crux of the matter is that Bitcoin blockchain is public and distributed to nodes.
+   It is verifiable which means that anyone can check all the transactions.
+2. Unchangeable:
+   It is Unchangeable because of its immutable feature.
+3. Tamper-proof:
+   "With Blockchain technology, you could create a truly tamper-proof record system.
+4. Immutable:
+   Immutability can be defined as the ability of a blockchain ledger to remain unchanged,
+   for a blockchain to remain unaltered and indelible. More succinctly, 
+   data in the blockchain cannot be altered.
+
+
+Q4. What all things does a Block Chain contains?
+
+Answer:
+A Block contains :
+1. Block Number:
+   A block represents the 'present' and contains information about its past and future.
+    Each time a block is completed it becomes part of the past and gives way to a new block in the blockchain.
+2. Transaction record:
+   When a transaction is recorded in the blockchain ,details of the transaction such as 
+   price, asset, and ownership, are recorded, verified and settled within seconds across all nodes.
+3. Previous Block Signature:
+   A digital signature (DS) is the detail of an electronic document 
+   that is used to identify the person transmitting data.
+4. Mining Key:
+   Mining is the process of adding transaction records to Bitcoin's public ledger of past transactions
+  (and a "mining rig" is a colloquial metaphor for a single computer system that performs the necessary computations for "mining".
+
+
+Q5. How is the verifiability of block chain is been attained?
+
+Answer:
+Lets take an example, all of us has to complete the assignment and
+questions are uploaded on LetsUpgrade community.
+That assignment we have to download and store in our laptops.
+Then we will create a new digital signature of that document like Pervious
+fingerprint + Data = Current Fingerprint.
+Then send the current fingerprint to community to check everyone is
+having same fingerprint or not.
+If any of the person does not match the fingerprint then that person need
+to replace the data with others.
+This is how the verifiability attained.
